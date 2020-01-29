@@ -1,0 +1,4 @@
+﻿  008_Ternary.cpp
+c:\users\jhon dir\documents\visual studio 2015\projects\conditionals\008_ternary\008_ternary.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  008_Ternary.vcxproj -> C:\Users\Jhon Dir\Documents\Visual Studio 2015\Projects\Conditionals\Debug\008_Ternary.exe
+  008_Ternary.vcxproj -> C:\Users\Jhon Dir\Documents\Visual Studio 2015\Projects\Conditionals\Debug\008_Ternary.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  008_Ternary.cpp
+d:\cyberbionicsystematics\course\c++ starter\004_conditionals\001_samples\008_ternary\008_ternary.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  008_Ternary.vcxproj -> D:\CyberBionicSystematics\Course\C++ Starter\004_Conditionals\001_Samples\x64\Debug\008_Ternary.exe
+  008_Ternary.vcxproj -> D:\CyberBionicSystematics\Course\C++ Starter\004_Conditionals\001_Samples\x64\Debug\008_Ternary.pdb (Full PDB)
