@@ -9,7 +9,7 @@ int main()
 	cout << endl;
 	cout << 2 + 2;
 
-	// Ğ—Ğ°Ğ´ĞµÑ€Ğ¶ĞºĞ°
+	// Çàäåğæêà
 	cin.get();
     return 0;
 }
